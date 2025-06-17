@@ -53,7 +53,6 @@ Adjust story length, style, or creativity by configuring `config.py` or the UI c
 
 - Python
 - Hugging Face transformers
-- OpenAI GPT-3.5
 
 ## 🆘 Troubleshooting
 
