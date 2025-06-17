@@ -14,10 +14,8 @@ A tool that transforms an image into a captivating narrative using image caption
 ```
 Image-to-story/
 ├── app.py
-├── model.py
-├── config.py
+├── image.png
 ├── requirements.txt
-├── assets/
 └── README.md
 ```
 
