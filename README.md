@@ -54,11 +54,6 @@ Adjust story length, style, or creativity by configuring `config.py` or the UI c
 - Python
 - Hugging Face transformers
 
-## 🆘 Troubleshooting
-
-- Loading might be slow on first run.
-- Check API quota if you’re using GPT-3.5.
-
 ## 📄 License
 
 MIT
