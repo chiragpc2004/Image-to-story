@@ -5,7 +5,7 @@ A tool that transforms an image into a captivating narrative using image caption
 ## 🔧 Features
 
 - Accepts user-submitted images to generate descriptive captions.
-- Converts captions into full-fledged stories (e.g., GPT‑3.5-powered).
+- Converts captions into full-fledged stories.
 - Customizable story styles (genre, tone, length, creativity).
 - Simple UI for ease of use.
 
